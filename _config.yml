@@ -1,4 +1,5 @@
 title: [Jacob Mohrbutter]
 description: [Security blog]
 theme: jekyll-theme-hacker
-is_project_page: false
+github:
+   is_project_page: false
